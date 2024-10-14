@@ -1,0 +1,4 @@
+/.env.local
+/github-issues.json
+**/node_modules/
+**/.vscode/

@@ -1,0 +1,20 @@
+{
+    "name": "octokit",
+    "version": "1.0.0",
+    "main": "main.mjs",
+    "scripts": {
+        "start": "node main.mjs",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "octokit": "^4.0.2"
+    },
+    "devDependencies": {
+        "@octokit/graphql": "^8.1.1",
+        "dotenv": "^16.4.5",
+        "graphql": "^16.9.0"
+    }
+}
